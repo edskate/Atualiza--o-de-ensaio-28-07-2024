@@ -1,0 +1,9 @@
+body{
+    background-image: url(../img/vecteezy_cat-illustration-background-wallpaper-design-beautiful_26646288.jpg);
+    background-repeat: no-repeat;
+    background-size: 1100px 600px;
+}
+a{
+    text-shadow: 1px 2px 3px #000;
+    font-size: 20px;
+}
